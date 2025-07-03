@@ -4,7 +4,7 @@ Bienvenue sur mon profil GitHub !
 
 ## 🙋‍♂️ Qui suis-je ?
 
-- Actuellement en CDD aux Comores, j’ai fondé [Torche](https://github.com/Torche-km), une entreprise de prestation en ingénierie logicielle.
+- J’ai fondé [Torche](https://github.com/Torche-km), une entreprise de prestation en ingénierie logicielle.
 - J’aide des clients à concevoir des solutions sur mesure tout en développant des projets internes porteurs de sens.
 
 ## 🚀 Mes projets phares
