@@ -9,7 +9,7 @@ Bienvenue sur mon profil GitHub !
 
 ## 🚀 Mes projets phares
 
-### 🏫 [cschool](https://cschool.vercel.app/)
+### 🏫 [cschool](https://demo.cschool.tech)
 SaaS de gestion scolaire pensé d’abord pour les établissements comoriens, avec l’ambition de s’ouvrir à d’autres horizons par la suite.  
 > 💡 Clean code, clean architecture, TDD, DDD, BDD, CQRS – cschool est mon terrain d’expérimentation pour le software craftsmanship.
 
